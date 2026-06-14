@@ -6,7 +6,7 @@ something you can actually open.
 
 🎓 CS, LMU 2026 · minors in Data Science & Statistics and Immersive Media
 🏆 Published at the MisD workshop @ ICWSM 2026 · won LMU's Hannon Library Grand Prize for Undergraduate Research
-🔭 Currently building **Cadence** and **Dabble**, two iOS apps
+🔭 Currently building **Cadence** · **Dabble** is [live on the App Store](https://apps.apple.com/us/app/dabble-hobby-finder/id6777279546)
 🌐 [Portfolio](https://nick-aurino.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/nick-aurino/) · ✉️ nickaurino@gmail.com
 
 ## Things I've built
@@ -16,7 +16,7 @@ misinformation in short-form video. I built the data pipeline. Published at ICWS
 [Read the paper](https://workshop-proceedings.icwsm.org/abstract.php?id=2026_43) · [DOI](https://doi.org/10.36190/2026.43)
 
 **📱 Dabble** — a hobby discovery app that nudges you off the feed and into actually trying
-something. Built because boredom is where curiosity starts. *React Native · Expo · Firebase · iOS (App Store soon)*
+something. Built because boredom is where curiosity starts. *React Native · Expo · Firebase · iOS* · [App Store](https://apps.apple.com/us/app/dabble-hobby-finder/id6777279546)
 
 **🏃 Cadence** — an iOS app that detects your walking or running cadence and matches music to
 your pace, using a native Swift MusicKit module. *React Native · Expo · iOS*
